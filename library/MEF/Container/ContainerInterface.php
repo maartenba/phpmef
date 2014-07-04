@@ -39,11 +39,6 @@
  */
 
 /**
- * @see MEF_Exception
- */
-require_once 'MEF/Exception.php';
-
-/**
  * @category   MEF
  * @package    MEF
  * @subpackage MEF_Container

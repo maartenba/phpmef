@@ -38,11 +38,6 @@
  */
 
 /**
- * @see MEF_Exception
- */
-require_once 'MEF/Exception.php';
-
-/**
  * @category   MEF
  * @package    MEF
  * @copyright  Copyright (c) 2009, RealDolmen (http://www.realdolmen.com)

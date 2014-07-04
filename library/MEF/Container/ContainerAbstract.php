@@ -39,21 +39,6 @@
  */
 
 /**
- * @see MEF_Export
- */
-require_once 'MEF/Export.php';
-
-/**
- * @see MEF_Container_ContainerInterface
- */
-require_once 'MEF/Container/ContainerInterface.php';
-
-/**
- * @see MEF_Exception
- */
-require_once 'MEF/Exception.php';
-
-/**
  * @category   MEF
  * @package    MEF
  * @subpackage MEF_Container

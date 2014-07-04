@@ -37,21 +37,6 @@
  */
 
 /**
- * @see MEF_Container_ContainerInterface
- */
-require_once 'MEF/Container/ContainerInterface.php';
-
-/**
- * @see MEF_Export
- */
-require_once 'MEF/Export.php';
-
-/**
- * @see MEF_Exception
- */
-require_once 'MEF/Exception.php';
-
-/**
  * @category   MEF
  * @package    MEF
  * @copyright  Copyright (c) 2009, RealDolmen (http://www.realdolmen.com)
