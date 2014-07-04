@@ -7,6 +7,7 @@ Latest download can be found under [releases](https://github.com/maartenba/phpme
 ## Hello, PHPMEF!
 Here's a simple example on how PHPMEF can be used:
 
+<pre><code>
   class HelloWorld {
       /**
        * @import-many MessageToSay
@@ -38,5 +39,6 @@ Here's a simple example on how PHPMEF can be used:
   $compositionInitializer->satisfyImports($helloWorld);
   
   $helloWorld->sayIt(); // Hello, World!
+<code></pre>
 
 Check [the wiki](https://github.com/maartenba/phpmef/wiki) for more information.
