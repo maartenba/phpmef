@@ -1,0 +1,26 @@
+{
+    "name": "phpmef/phpmef",
+    "description": "PHPMEF allows easy composition and extensibility in an application.",
+    "type": "library",
+    "homepage": "https://github.com/maartenba/phpmef",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Maarten Balliauw",
+            "email": "maarten@maartenballiauw.be"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "3.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "MEF_": "library/"
+        }
+    },
+    "autoload-dev": {
+        "psr-0": {
+            "MEF_": "tests/"
+        }
+    }
+}
